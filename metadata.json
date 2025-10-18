@@ -1,0 +1,5 @@
+{
+  "name": "Script Writer AI",
+  "description": "An AI-powered scriptwriting assistant that generates various types of scripts in multiple languages. It leverages web knowledge to create fact-based explainer scripts, narrative short stories, and detailed content outlines.",
+  "requestFramePermissions": []
+}
